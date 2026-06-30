@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordPreetiToUnicode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aa873ceb39b41f9e3eb84c4f41ba2fb3e2da76a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordPreetiToUnicode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordPreetiToUnicode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
